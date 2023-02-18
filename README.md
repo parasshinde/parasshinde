@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paras Shinde
-- 👀 I’m interested in python,c++,c html, css,javascript.
+- 👀 I’m interested in python,c++,c, html, css,javascript.
 - 🌱 I’m currently learning python, c++, c program
 - 💞️ I’m looking to collaborate on the c program
 - 📫 How to reach me through github
