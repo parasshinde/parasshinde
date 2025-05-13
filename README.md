@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shindeparas8@gmail.com**
 
-- ⚡ Fun fact **I do Stock market Trading**
+- ⚡ Fun fact **I also like webdev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
